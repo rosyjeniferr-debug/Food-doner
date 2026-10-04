@@ -1,0 +1,19 @@
+[
+    {
+        "name": "jenifer",
+        "email": "rosy282928@gmail.com",
+        "role": "Donor"
+    },
+    {
+        "name": "rosy",
+        "email": "jenifrrr@gmail.com",
+        "role": "Receiver",
+        "trust_code": "TRUST2026"
+    },
+    {
+        "role": "Donor",
+        "name": "jenifer",
+        "email": "yashwanthkumarmanoharan26@gmail.com",
+        "phone": "1134567891"
+    }
+]
